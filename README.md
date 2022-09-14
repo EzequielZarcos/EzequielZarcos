@@ -13,4 +13,4 @@ Skills: JS / HTML / CSS / REACT / REDUX / NODEJS / EXPRESS / POSTGRESQL / SEQUEL
 - 📫 How to reach me:
 - Email: ezequielzarcos159@gmail.com
 - Portfolio: ([link](https://potfolio-alpha.vercel.app/))
-- Linkedin: ([link]([https://potfolio-alpha.vercel.app/](https://www.linkedin.com/in/ezequiel-zarcos-10068823b/)))
+- Linkedin: ([link]([https://potfolio-alpha.vercel.app/](https://www.linkedin.com/in/ezequiel-zarcos-10068823b/))
