@@ -27,7 +27,11 @@ My goal is to be able to get my first job as a developer because I consider it t
 
 ## My Projects
 
-
+### Grupal Proyect Gaed.jm
+    This project simulates a clothing ecommerce that as a user you can buy and access other features of the page and as an administrator you will access more tools and controls of the page.
+This project was worked with the SCRUM methodology, in which 6 people participated.
+My role in this project was to develop logical functions of the front, such as combined filters, controlled forms, cookies, payment gateway (front - back) and also participated in the design.
+    
 ## Contact Me
 
 Email: ezequielzarcos159@gmail.com
