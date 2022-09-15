@@ -12,5 +12,5 @@ Skills: JS / HTML / CSS / REACT / REDUX / NODEJS / EXPRESS / POSTGRESQL / SEQUEL
 - 🌱 I’m currently learning Responsive desing and typescript 
 - 📫 How to reach me:
 - Email: ezequielzarcos159@gmail.com
-- Portfolio: ([link](https://potfolio-alpha.vercel.app/))
-- Linkedin: ([link](https://www.linkedin.com/in/ezequiel-zarcos-10068823b/))
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ezequiel-zarcos-10068823b//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://potfolio-alpha.vercel.app/)  
