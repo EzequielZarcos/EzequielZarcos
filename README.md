@@ -35,6 +35,10 @@ My role in this project was to develop logical functions of the front, such as c
     
 <img src='https://github.com/EzequielZarcos/EzequielZarcos/blob/cd9fd565c3a3b8d12d09a21642c0b983f508a533/2022-09-09%20(2).png' width="48%"><img src="https://github.com/EzequielZarcos/EzequielZarcos/blob/e817c96664f46d39031d7f76f241a2d305fa7458/gaed.jm2.png" width="48%">
     
+### Individual Project - Food App
+    
+This individual project aimed to build an application with the knowledge acquired in Henry's bootcamp. This single page application consumes data from an API by saving it in a database to create different functionalities such as routes, entity-relationship models, combined filters, controlled forms, pagination, among others.
+    
 ## Contact Me
 
 Email: ezequielzarcos159@gmail.com
