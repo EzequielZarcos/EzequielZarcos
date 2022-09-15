@@ -37,8 +37,8 @@ My role in this project was to develop logical functions of the front, such as c
     
 ### [Repositorio](https://github.com/Juan-Jose-Horisberger/Proyecto-final-front)
     
-<a left="" href="https://gaed-jm-dusky.vercel.app/LandingPage"><img src='https://github.com/EzequielZarcos/EzequielZarcos/blob/cd9fd565c3a3b8d12d09a21642c0b983f508a533/2022-09-09%20(2).png' width="45%"></a>
-    <a href="https://gaed-jm-dusky.vercel.app/LandingPage"><img src="https://github.com/EzequielZarcos/EzequielZarcos/blob/e817c96664f46d39031d7f76f241a2d305fa7458/gaed.jm2.png" width="45%"></a>
+<a aling="left" href="https://gaed-jm-dusky.vercel.app/LandingPage"><img src='https://github.com/EzequielZarcos/EzequielZarcos/blob/cd9fd565c3a3b8d12d09a21642c0b983f508a533/2022-09-09%20(2).png' width="45%"></a>
+    <a aling="right" href="https://gaed-jm-dusky.vercel.app/LandingPage"><img src="https://github.com/EzequielZarcos/EzequielZarcos/blob/e817c96664f46d39031d7f76f241a2d305fa7458/gaed.jm2.png" width="45%"></a>
     
 ### Individual Project - Food App
     
