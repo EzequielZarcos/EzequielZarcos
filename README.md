@@ -15,3 +15,4 @@ Skills: JS / HTML / CSS / REACT / REDUX / NODEJS / EXPRESS / POSTGRESQL / SEQUEL
 
 [<img src='https://img.icons8.com/color/344/linkedin-circled--v1.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ezequiel-zarcos-10068823b//)  [<img src='https://www.svgrepo.com/show/7917/cloud.svg' alt='website' height='40'>](https://potfolio-alpha.vercel.app/)  
 
+### My Projects
