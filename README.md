@@ -33,6 +33,8 @@ This project simulates a clothing ecommerce that as a user you can buy and acces
 This project was worked with the SCRUM methodology, in which 6 people participated.
 My role in this project was to develop logical functions of the front, such as combined filters, controlled forms, cookies, payment gateway (front - back) and also participated in the design.
     
+[Deploy](https://gaed-jm-dusky.vercel.app/LandingPage)
+    
 <a href="https://gaed-jm-dusky.vercel.app/LandingPage"><img src='https://github.com/EzequielZarcos/EzequielZarcos/blob/cd9fd565c3a3b8d12d09a21642c0b983f508a533/2022-09-09%20(2).png' width="48%"></a>
     <a href="https://gaed-jm-dusky.vercel.app/LandingPage"><img src="https://github.com/EzequielZarcos/EzequielZarcos/blob/e817c96664f46d39031d7f76f241a2d305fa7458/gaed.jm2.png" width="48%"></a>
     
