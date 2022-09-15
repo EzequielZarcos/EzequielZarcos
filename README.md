@@ -1,5 +1,5 @@
-### Hi there 👋, my name is Ezequiel
-#### I am Full-Stack web developer
+## Hi there 👋, my name is Ezequiel
+### I am Full-Stack web developer
 ![I am Full-Stack web developer](https://img.freepik.com/vector-gratis/encabezado-tipografico-desarrollo-presentacion-contenido-paginas-web-composicion-diseno-sitio-web-desarrollo-color-idea-tecnologia-informatica-ilustracion-vector-plano_613284-2493.jpg?w=996&t=st=1663201556~exp=1663202156~hmac=27b8152a1f876c82cd699f7b4686cde65479e1ece235ea1debe6bbe74ec54341)
 
 My name is Ezequiel Zarcos, I am a Full Stack Developer with experience working on React, Redux, NodeJS, among others. An active person who is constantly learning and looking for new challenges and experiences that make me a better developer.
@@ -11,10 +11,10 @@ Skills: JS / HTML / CSS / REACT / REDUX / NODEJS / EXPRESS / POSTGRESQL / SEQUEL
 - 🔭 I’m currently working on My portfolio and the deploy of my individual project. 
 - 🌱 I’m currently learning Responsive desing and typescript  
 
-### My Projects
+## My Projects
 
 
-### Contact Me
+## Contact Me
 
 Email: ezequielzarcos159@gmail.com
 
