@@ -6,6 +6,9 @@ My name is Ezequiel Zarcos, I am a Full Stack Developer with experience working 
 I started in this area with many doubts, I wasn't sure if I was going to like this, but without a doubt I love it, solving problems and the satisfaction of the resolution is something that I enjoy and motivates me to continue improving and advancing as a developer.
 My goal is to be able to get my first job as a developer because I consider it to be a great opportunity to improve.
 
+- 🔭 I’m currently working on My portfolio and the deploy of my individual project. 
+- 🌱 I’m currently learning Responsive desing and typescript  
+
 ## My Skills
 <div align='center'>
   <a href="https://developer.mozilla.org/es/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/javascript.svg"  height="55" width="55" ></a>
@@ -23,9 +26,6 @@ My goal is to be able to get my first job as a developer because I consider it t
   <a href="https://www.npmjs.com/"><img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/others/npm.svg"  height="55" width="55" >
   <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/></a>
   </div>
-
-- 🔭 I’m currently working on My portfolio and the deploy of my individual project. 
-- 🌱 I’m currently learning Responsive desing and typescript  
 
 ## My Projects
 
