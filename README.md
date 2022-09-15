@@ -37,14 +37,14 @@ My role in this project was to develop logical functions of the front, such as c
     
 ### [Repositorio](https://github.com/Juan-Jose-Horisberger/Proyecto-final-front)
     
-<a href="https://gaed-jm-dusky.vercel.app/LandingPage"><img src='https://github.com/EzequielZarcos/EzequielZarcos/blob/cd9fd565c3a3b8d12d09a21642c0b983f508a533/2022-09-09%20(2).png' width="48%"></a>
+<a href="https://gaed-jm-dusky.vercel.app/LandingPage"><img src='https://github.com/EzequielZarcos/EzequielZarcos/blob/cc15c998c79fc0f72bc3906dff7b8980e96c4b34/gaed.jm.jpg' width="48%"></a>
     <a aling="right" href="https://gaed-jm-dusky.vercel.app/LandingPage"><img align="right" src="https://github.com/EzequielZarcos/EzequielZarcos/blob/e817c96664f46d39031d7f76f241a2d305fa7458/gaed.jm2.png" width="48%"></a>
     
 ### Individual Project - Food App
     
 This individual project aimed to build an application with the knowledge acquired in Henry's bootcamp. This single page application consumes data from an API by saving it in a database to create different functionalities such as routes, entity-relationship models, combined filters, controlled forms, pagination, among others.
     
-### [Repositorio](https://github.com/Juan-Jose-Horisberger/Proyecto-final-front)
+### [Repositorio](https://github.com/EzequielZarcos/PI-FOOD-Henry)
     
 <a href="https://github.com/EzequielZarcos/PI-FOOD-Henry"><img src='https://github.com/EzequielZarcos/EzequielZarcos/blob/325fc4dbbbc2bc1319b5ddd5213af7d7dc7d4dad/food-app.png' width="48%"></a>
     <a aling="right" href="https://github.com/EzequielZarcos/PI-FOOD-Henry"><img align="right" src="https://github.com/EzequielZarcos/EzequielZarcos/blob/58b14c5bce63d3dba5e89356db6bad42a4dc9504/food-app2.png" width="48%"></a>
