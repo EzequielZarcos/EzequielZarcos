@@ -46,7 +46,7 @@ This individual project aimed to build an application with the knowledge acquire
     
 ### [Repositorio](https://github.com/Juan-Jose-Horisberger/Proyecto-final-front)
     
-<a href="https://gaed-jm-dusky.vercel.app/LandingPage"><img src='https://github.com/EzequielZarcos/EzequielZarcos/blob/cd9fd565c3a3b8d12d09a21642c0b983f508a533/2022-09-09%20(2).png' width="48%"></a>
+<a href="https://gaed-jm-dusky.vercel.app/LandingPage"><img src='https://github.com/EzequielZarcos/EzequielZarcos/blob/325fc4dbbbc2bc1319b5ddd5213af7d7dc7d4dad/food-app.png' width="48%"></a>
     <a aling="right" href="https://gaed-jm-dusky.vercel.app/LandingPage"><img align="right" src="https://github.com/EzequielZarcos/EzequielZarcos/blob/e817c96664f46d39031d7f76f241a2d305fa7458/gaed.jm2.png" width="48%"></a>
     
 ## Contact Me
