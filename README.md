@@ -13,6 +13,5 @@ Skills: JS / HTML / CSS / REACT / REDUX / NODEJS / EXPRESS / POSTGRESQL / SEQUEL
 - 📫 How to reach me:
 - Email: ezequielzarcos159@gmail.com
 
-[<img src='https://img.icons8.com/color/344/linkedin-circled--v1.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ezequiel-zarcos-10068823b//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://potfolio-alpha.vercel.app/)  
+[<img src='https://img.icons8.com/color/344/linkedin-circled--v1.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ezequiel-zarcos-10068823b//)  [<img src='https://img.icons8.com/fluency/344/clouds.svg' alt='website' height='40'>](https://potfolio-alpha.vercel.app/)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EzequielZarcos)](https://github.com/anuraghazra/github-readme-stats)
