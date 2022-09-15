@@ -32,6 +32,8 @@ My goal is to be able to get my first job as a developer because I consider it t
 This project was worked with the SCRUM methodology, in which 6 people participated.
 My role in this project was to develop logical functions of the front, such as combined filters, controlled forms, cookies, payment gateway (front - back) and also participated in the design.
     
+<img src='./2022-09-09(2).png' alt='linkedin' height='40'>
+    
 ## Contact Me
 
 Email: ezequielzarcos159@gmail.com
