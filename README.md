@@ -9,10 +9,12 @@ My goal is to be able to get my first job as a developer because I consider it t
 Skills: JS / HTML / CSS / REACT / REDUX / NODEJS / EXPRESS / POSTGRESQL / SEQUELIZE
 
 - 🔭 I’m currently working on My portfolio and the deploy of my individual project. 
-- 🌱 I’m currently learning Responsive desing and typescript 
-- 📫 How to reach me:
-- Email: ezequielzarcos159@gmail.com
-
-[<img src='https://img.icons8.com/color/344/linkedin-circled--v1.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ezequiel-zarcos-10068823b//)  [<img src='https://www.svgrepo.com/show/7917/cloud.svg' alt='website' height='40'>](https://potfolio-alpha.vercel.app/)  
+- 🌱 I’m currently learning Responsive desing and typescript  
 
 ### My Projects
+
+
+### Contact Me
+
+Email: ezequielzarcos159@gmail.com
+[<img src='https://img.icons8.com/color/344/linkedin-circled--v1.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ezequiel-zarcos-10068823b//)  [<img src='https://www.svgrepo.com/show/7917/cloud.svg' alt='website' height='40'>](https://potfolio-alpha.vercel.app/) 
