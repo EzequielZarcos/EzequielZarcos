@@ -48,8 +48,8 @@ This individual project aimed to build an application with the knowledge acquire
     
 ### [Repositorio](https://github.com/EzequielZarcos/PI-FOOD-Henry)
     
-<a href="https://pi-food-pearl-nine.vercel.app/home"><img src='https://github.com/EzequielZarcos/EzequielZarcos/blob/325fc4dbbbc2bc1319b5ddd5213af7d7dc7d4dad/food-app.png' width="48%"></a>
-    <a aling="right" href="https://pi-food-pearl-nine.vercel.app/home"><img align="right" src="https://github.com/EzequielZarcos/EzequielZarcos/blob/49a197d2d9b0e7a0ea16867130b062f2d3a61394/food-app22.png" width="48%"></a>
+<a href="https://pi-food-pearl-nine.vercel.app/"><img src='https://github.com/EzequielZarcos/EzequielZarcos/blob/325fc4dbbbc2bc1319b5ddd5213af7d7dc7d4dad/food-app.png' width="48%"></a>
+    <a aling="right" href="https://pi-food-pearl-nine.vercel.app/"><img align="right" src="https://github.com/EzequielZarcos/EzequielZarcos/blob/49a197d2d9b0e7a0ea16867130b062f2d3a61394/food-app22.png" width="48%"></a>
     
 ## Contact Me
 
