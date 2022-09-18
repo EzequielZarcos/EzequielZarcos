@@ -43,6 +43,8 @@ My role in this project was to develop logical functions of the front, such as c
 ### Individual Project - Food App
     
 This individual project aimed to build an application with the knowledge acquired in Henry's bootcamp. This single page application consumes data from an API by saving it in a database to create different functionalities such as routes, entity-relationship models, combined filters, controlled forms, pagination, among others.
+
+### [Deploy](https://pi-food-pearl-nine.vercel.app/)
     
 ### [Repositorio](https://github.com/EzequielZarcos/PI-FOOD-Henry)
     
